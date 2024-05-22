@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport"
+        content="width=device-witdth">
+    </head>
+    <title>
+        THIS IS A TEST!!!
+    </title>
+<body>
+    <h1>
+        Trying Something New
+    </h1>
+    <p>
+        This is my 1st website.
+    </p>
+    <h2>
+        My Hopes
+    </h2>
+   <p>
+    I hope to be good enough to make money off this.
+   </p>
+    <img src="https://ih1.redbubble.net/image.5148601542.3580/st,small,507x507-pad,600x600,f8f8f8.jpg"
+    alt="Smiley" />
+<h3> Steps to Success </h3>
+    <ol>
+    <li>Learn html</li>
+    <li> Learn CSS</li>
+    <li> Get better at JAVA</li>
+    <li> Fix up LinkedIn profile </li>
+    <li> Profit? </li>
+</ol>
+<a> Click This</a>
+<a href="https://youtu.be/dQw4w9WgXcQ?si=vT5BLjmGNVbao_xo">Click This</a>
+</body>
+</html
